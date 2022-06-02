@@ -12,8 +12,8 @@ This is a movie search app which will provide you information and poster of movi
    - [ ] Plot
    - [ ] language they used in the movie
    - [ ] How many awards the movie won
-- [ ] (must have) The app needs to have loading/error handling for the interaction with the API.
-- [ ] (must have) The app needs some user interaction such that you need to grab different data from the API. So you cannot just grab everything from the API and store it locally with one fetch.
+- [ ] The app needs to have loading/error handling for the interaction with the API.
+- [ ] The app needs some user interaction such that you need to grab different data from the API. So you cannot just grab everything from the API and store it locally with one fetch.
 
 ### Nice to have features:
 - [ ] The user can search a movie with by its categorie for example(Sereis, Full movies, Sitcom, ...)
