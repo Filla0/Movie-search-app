@@ -1,6 +1,6 @@
 # Movie-Search-App
 Must have:-
-- [ ] Design of the app should fits the PostNL website style.
+- [ ] Design of the app should fits the NETFLIX website style.
 - [ ] The user can search different kinds of movies.
 - [ ] The movie search information should show
    - [ ] Released year
