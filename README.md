@@ -1,5 +1,5 @@
 # Movie-Search-App
-This is a movie search app which will provide you information and poster of movies.I will follow the NETFLIX website style and gonna use movie api website to get movie information.
+This is a movie search app which will provide you information and poster of movies.I will follow the [NETFLIX](https://www.netflix.com/nl-en/) website style and gonna use movie api website to get movie information.
 
 ### Must have:-
 - [ ] Design of the app should fits the NETFLIX website style.
