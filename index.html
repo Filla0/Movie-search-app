@@ -8,6 +8,32 @@
     <link rel="stylesheet" href="./public/style.css">
 </head>
 <body>
-    <script src="./src/app.js"></script>
+    <div class = "wrapper">
+        <div class = "logo">
+            <img src="./image/Custom dimensions 200x100 cm (1).png" alt="logo">
+        </div>
+        
+        <div class = "search-container">
+            <div class = "search-element">
+                <h3>Search Movie:</h3>
+                <input type = "text" class = "search-box" placeholder="Search Movie Title ..." id = "movie-search-box" onkeyup="getMovies()" onclick = "getMovies()">
+
+                <div class = "search-list" id = "search-list"></div>
+
+            </div>
+        </div>
+       
+        
+        <div class = "container">
+            <div class = "result-container">
+                <div class = "result-grid" id = "result-grid"></div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="./src/fetch-data.js"></script>
 </body>
 </html>
