@@ -2,7 +2,7 @@
 ![screen shot from the app](https://github.com/Filla0/Movie-search-app/blob/main/image/screenshotJPG.JPG)
 
 ## DEMO
-You can test [here.](https://filla0.github.io/Movie-search-app/)
+You can test the App from [here.](https://filla0.github.io/Movie-search-app/)
 
 ## App features
 This is a movie search app which will provide you information and poster of movies.I will follow the [NETFLIX](https://www.netflix.com/nl-en/) website style and gonna use movie api website to get movie information.
