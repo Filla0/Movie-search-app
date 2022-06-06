@@ -1,2 +1,0 @@
-import { searchList } from "./constant"
-
