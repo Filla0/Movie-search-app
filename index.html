@@ -16,7 +16,7 @@
         <div class = "search-container">
             <div class = "search-element">
                 <h3>Search Movie:</h3>
-                <input type = "text" class = "search-box" placeholder="Search Movie Title ..." id = "movie-search-box" onkeyup="getMovies()" onclick = "getMovies()">
+                <input type = "text" class = "search-box" placeholder="Search Movie Title ..." id = "movie-search-box">
 
                 <div class = "search-list" id = "search-list"></div>
 
@@ -29,11 +29,12 @@
                 <div class = "result-grid" id = "result-grid"></div>
 
             </div>
+            
         </div>
     </div>
 
 
 
-    <script src="./src/fetch-data.js"></script>
+    <script type="module" src="./src/main.js" ></script>
 </body>
 </html>
